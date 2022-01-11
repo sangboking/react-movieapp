@@ -1,0 +1,18 @@
+.home{
+ .title{
+   text-align: center;
+   padding: 1rem;
+   h1{
+    font-size: 2rem;
+    margin-bottom:4rem;
+    font-weight: 700;
+  }
+ }
+ .grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 500px));
+  justify-content: center;
+  column-gap: 1.25em;
+  row-gap: 2.5em;
+ }
+}

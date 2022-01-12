@@ -1,5 +1,4 @@
-
-React Movie app
+# React Movie app
 
 Demo : https://sangboking.github.io/react-movieapp/ 
 
